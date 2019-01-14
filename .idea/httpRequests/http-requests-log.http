@@ -1,0 +1,141 @@
+GET http://localhost:8080/customers/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+{:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T021105.400.html
+
+###
+
+GET http://localhost:8080/customers/1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+{:
+"id" = 1,:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T020710.400.html
+
+###
+
+GET http://localhost:8080/customers/1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+{:
+"id" = 1,:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T020606.400.html
+
+###
+
+GET http://localhost:8080/customers/1
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+{:
+"id" = 1,:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T020345.400.html
+
+###
+
+GET http://localhost:8080/customers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+{:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T020328.400.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2019-01-12T020044.404.html
+
+###
+
+GET http://localhost:8080/customers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+{:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T015952.400.html
+
+###
+
+GET http://localhost:8080/customers
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+{:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T015652.400.html
+
+###
+
+GET http://localhost:8080/customers/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+{:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+<> 2019-01-12T015621.400.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-12T015614.404.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/customers/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+{:
+"firstName" = "Khoi",:
+"lastName" = "Pham":
+}:
+
+###
+
